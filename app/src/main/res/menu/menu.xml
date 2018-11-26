@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item android:id="@+id/action_updating"
+        android:title="회원정보 수정"
+        app:showAsAction="withText"/>
+    <item android:id="@+id/action_logout"
+        android:title="로그아웃"
+        app:showAsAction="withText"/>
+
+</menu>
